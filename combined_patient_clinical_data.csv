@@ -1,0 +1,77 @@
+patient_id,mrd_no,age,gender,bethesda_category,usg_trd,site,serum_calcium,procedure,post_op_complication,final_histopathology_abbr,final_histopathology_full,diagnosis_class,source_dataset
+1,330153,30,F,Btd II,TRD II,RL,8.8,RH,VC+VCP,CGCC,Colloid Goiter with Cystic Change,Benign,thyroid_pdf_case_records
+2,188119,16,F,Btd VI,TRD III,BL,9.2,TT,HypoCa+HypoThy,MTC,Medullary Thyroid Carcinoma,Malignant,thyroid_pdf_case_records
+3,303314,59,F,Btd IV,TRD III,RL+Isth,9,TT,HypoThy,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+4,101820,23,F,Btd IV,TRD V,BL,9.48,TT,HypoThy,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+5,464793,39,F,Btd II,TRD II,RL,8.6,RH,no,CGCC,Colloid Goiter with Cystic Change,Benign,thyroid_pdf_case_records
+6,552789,47,F,Btd II,TRD IV,LL,8.9,LH,no,CGCC,Colloid Goiter with Cystic Change,Benign,thyroid_pdf_case_records
+7,146787,69,F,Btd II,TRD III,RL,8.8,RH,no,CG,Colloid Goiter,Benign,thyroid_pdf_case_records
+8,198819,61,F,Btd II,TRD III,RL+Isth,9.2,RH,no,CGCC,Colloid Goiter with Cystic Change,Benign,thyroid_pdf_case_records
+9,167597,60,F,Btd II,TRD II,BL,9.6,TT,HypoThy,CGCC,Colloid Goiter with Cystic Change,Benign,thyroid_pdf_case_records
+10,129822,22,F,Btd IV,TRD I,LL,9.4,LH,no,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+11,298761,48,F,Btd V,TRD IV,RL,8.9,TT,HypoThy,PTC,Papillary Thyroid Carcinoma,Malignant,thyroid_pdf_case_records
+12,345268,52,F,Btd V,TRD II,BL,9,TT+ND,HypoThy,MTC,Medullary Thyroid Carcinoma,Malignant,thyroid_pdf_case_records
+13,128364,35,F,Btd II,TRD II,LL,8.6,LH,no,CG,Colloid Goiter,Benign,thyroid_pdf_case_records
+14,306549,34,F,Btd II,TRD II,Isth,8.8,Isthmusectomy,no,CGCC,Colloid Goiter with Cystic Change,Benign,thyroid_pdf_case_records
+15,301599,23,F,Btd II,TRD II,RL,9.2,RH,no,CGCC,Colloid Goiter with Cystic Change,Benign,thyroid_pdf_case_records
+16,331142,46,F,Btd III,TRD IV,RL,9,RH,no,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+17,317250,28,F,Btd III,TRD II,LL,9.48,LH,no,FNeo,Follicular Neoplasm,Indeterminate - verify,thyroid_pdf_case_records
+18,324564,55,F,Btd II,TRD III,BL,8.6,TT,HypoThy,MNG,Multinodular Goiter,Benign,thyroid_pdf_case_records
+19,335687,60,F,Btd IV,TRD V,BL+Isth,8.9,TT,HypoThy,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+20,347658,38,F,Btd V,TRD II,BL,8.8,TT,HypoThy,PTC,Papillary Thyroid Carcinoma,Malignant,thyroid_pdf_case_records
+21,227658,47,F,Btd III,TRD IV,RL,9.2,RH,no,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+22,218760,50,F,Btd I,TRD V,LL,9.6,TT,HypoThy,MNG,Multinodular Goiter,Benign,thyroid_pdf_case_records
+23,109876,45,F,Btd III,TRD II,LL,9.4,LH,no,CG,Colloid Goiter,Benign,thyroid_pdf_case_records
+24,265749,65,M,Btd III,TRD III,BL,8.9,TT,HypoCa+HypoThy,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+25,421864,47,F,Btd II,TRD II,RL,9,RH,no,CGCC,Colloid Goiter with Cystic Change,Benign,thyroid_pdf_case_records
+26,409824,43,F,Btd II,TRD I,BL+Isth,8.6,TT,HypoThy,CG,Colloid Goiter,Benign,thyroid_pdf_case_records
+27,233469,31,F,Btd II,TRD III,LL,9.4,LH,no,PTC,Papillary Thyroid Carcinoma,Malignant,thyroid_pdf_case_records
+28,246842,35,F,Btd V,TRD V,RL,8.9,TT+ND,HypoCa+HypoThy,CG,Colloid Goiter,Benign,thyroid_pdf_case_records
+29,212867,23,F,Btd II,TRD II,RL,8.6,RH,no,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+30,283041,45,F,Btd II,TRD II,RL,8.8,RH,no,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+31,284031,31,F,Btd II,TRD III,BL+Isth,9.2,TT,no,CG,Colloid Goiter,Benign,thyroid_pdf_case_records
+32,278262,42,F,Btd II,TRD III,RL,9,RH,no,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+33,201246,45,F,Btd II,TRD III,RL,9.48,LH,no,MNG,Multinodular Goiter,Benign,thyroid_pdf_case_records
+34,248363,51,F,Btd II,TRD III,BL,8.6,TT,HypoCa+HypoThy,PTC,Papillary Thyroid Carcinoma,Malignant,thyroid_pdf_case_records
+35,223962,49,M,Btd III,TRD IV,LL,8.9,LH,no,CGCC,Colloid Goiter with Cystic Change,Benign,thyroid_pdf_case_records
+36,441409,48,F,Btd II,TRD III,LL,9.48,LH,no,MNG,Multinodular Goiter,Benign,thyroid_pdf_case_records
+37,824730,55,F,Btd II,TRD II,RL,8.6,RH,no,MNG,Multinodular Goiter,Benign,thyroid_pdf_case_records
+38,117397,4,M,Btd I,Lymphangioma,BL,8.9,TT,HypoCa+HypoThy,CG,Colloid Goiter,Benign,thyroid_pdf_case_records
+39,152338,24,F,Btd II,TRD II,LL+Isth,8.8,LH,no,CGCC,Colloid Goiter with Cystic Change,Benign,thyroid_pdf_case_records
+40,647893,65,F,Btd II,TRD II,LL,9.2,TT,HypoCa+HypoThy,MNG,Multinodular Goiter,Benign,thyroid_pdf_case_records
+41,571896,39,F,Btd II,TRD III,BL+Isth,9.6,TT,HypoThy,MNG,Multinodular Goiter,Benign,thyroid_pdf_case_records
+42,649168,30,F,Btd III,TRD III,BL,9.4,TT,SWI,HashiT,Hashimoto's Thyroiditis,Benign,thyroid_pdf_case_records
+43,127843,34,F,Btd II,TRD III,BL,9.4,RH,no,CG,Colloid Goiter,Benign,thyroid_pdf_case_records
+44,475318,26,F,Btd II,TRD III,RL,8.9,LH,no,FA,Follicular Adenoma,Benign,thyroid_pdf_case_records
+45,649267,30,F,Btd II,TRD III,LL,9,TT,HypoThy,CG,Colloid Goiter,Benign,thyroid_pdf_case_records
+46,317403,51,F,Btd II,TRD IV,BL,8.6,TT,,CG,Colloid Goiter,Benign,thyroid_pdf_case_records
+47,117545,38,F,Btd II,M,R lobe F. adenoma,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+48,127804,21,F,Btd II,M,R lobe CG,,,,CG,colloid goitre,Benign,thesis_grand_chart
+49,127987,48,F,Btd II,M,L lobe CG,,,,CG,colloid goitre,Benign,thesis_grand_chart
+50,128457,45,F,Btd II,M,R lobe CG,,,,CG,colloid goitre,Benign,thesis_grand_chart
+51,128864,30,F,Btd II,sol. Nodule,R lobe adeno nodule,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+52,131003,23,F,Btd II,M,L lobe CG,,,,CG,colloid goitre,Benign,thesis_grand_chart
+53,132989,36,F,Btd II,S,L lobe F adenoma,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+54,134578,35,M,Btd II,sol.Nodule,L lobe CG,,,,CG,colloid goitre,Benign,thesis_grand_chart
+55,137689,40,M,Btd III,S,L lobe adeno nodule,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+56,138435,51,F,Btd II,S,R lobe adeno nodule,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+57,138535,43,F,Btd II,sol. Nodule,R lobe CG,,,,CG,colloid goitre,Benign,thesis_grand_chart
+58,139646,37,F,Btd II,M,R lobe CG,,,,CG,colloid goitre,Benign,thesis_grand_chart
+59,142535,30,F,Btd III,M,L lobe adeno nodule,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+60,143868,49,F,Btd III,S,L lobe adeno nodule,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+61,145678,58,M,Btd III,M,R MNG,,,,PTC,Pap ca. with level VI mets.,Malignant,thesis_grand_chart
+62,146576,40,F,Btd II,M,L CG,,,,CG,colloid goitre (sol. Nodule),Benign,thesis_grand_chart
+63,146879,30,F,Btd II,M,R CG,,,,CG,colloid goitre,Benign,thesis_grand_chart
+64,147568,51,F,Btd III,sol. Nodule,MN CG L T lobe,,,,CG,colloid goitre,Benign,thesis_grand_chart
+65,148783,43,F,Btd III,sol. nodule,MN CG R T lobe,,,,CG,colloid goitre,Benign,thesis_grand_chart
+66,148898,58,F,Btd II,M,L CG,,,,CG,colloid goitre(sol. Nodule),Benign,thesis_grand_chart
+67,148909,55,M,Btd III,sol. nodule,R Lobe adeno nodule,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+68,150945,29,M,Btd IV,sol. C,L lobe F nodule,,,,FTC,follicular ca.,Malignant,thesis_grand_chart
+69,159987,32,M,Btd II,M,L lobe adeno nodule,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+70,160298,28,F,Btd III,MN,b/l lobe MNG,,,,CG,colloid goitre,Benign,thesis_grand_chart
+71,163457,32,F,Btd II,sol. M. adeno,L Lobe adeno nodule,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+72,178575,54,F,Btd II,M,L Lobe CG,,,,CG,colloid goitre,Benign,thesis_grand_chart
+73,187246,26,F,Btd II,C,L lobe sol nodule,,,,CG,colloid goitre,Benign,thesis_grand_chart
+74,297856,34,F,Btd V,S. With b/l cal,b/l lobe MNG,,,,PTC,Pap ca. with level VI mets,Malignant,thesis_grand_chart
+75,375782,36,F,Btd IV,M,L lobe F. neo,,,,FA,follicular adenoma,Benign,thesis_grand_chart
+76,486382,48,F,Btd III,M,R Hurtle cell neo,,,,HCN,hurtle cell neoplasm,Indeterminate - verify,thesis_grand_chart
